@@ -1,4 +1,9 @@
-<h1 align="center">PJATK (PJAIT) Projects</h1>
+<h1 align="center">
+  <div>
+    <img width="80" src="https://raw.githubusercontent.com/bibixx/PJATK/22b9f2f9ea695c9c8e2da79a1e04b79dc9e8871a/logo.svg" alt="" />
+  </div>
+  PJATK (PJAIT) Projects
+</h1>
 
 The following repository compiles the list of all of the repositories that I have created during my studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
 
