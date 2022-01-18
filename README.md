@@ -15,6 +15,7 @@ The following repository compiles the list of all of the repositories that I hav
 * [TPO](https://github.com/bibixx/pjatk-TPO)
 * [MAS](https://github.com/bibixx/pjatk-MAS)
 * [PUM](https://github.com/bibixx/pjatk-PUM)
+* [TIN](https://github.com/bibixx/pjatk-TIN)
 
 ## License
 All of the code in the above repositories is distributed under the [CC BY-NC](./LICENSE.md) unless specified otherwise inside the individual repositories.
