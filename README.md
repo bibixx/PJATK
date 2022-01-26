@@ -19,7 +19,7 @@ The following repository compiles the list of all of the repositories that I hav
 * [UTP](https://github.com/bibixx/pjatk-UTP)
 
 ## License
-All of the code in the above repositories is distributed under the [CC BY-NC](./LICENSE.md) unless specified otherwise inside the individual repositories.
+All of the code in the above repositories is distributed under the [GPLv3](./LICENSE.md) unless specified otherwise inside the individual repositories.
 
 ---
 
