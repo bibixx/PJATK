@@ -8,14 +8,15 @@
 The following repository compiles the list of all of the repositories that I have created during my studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
 
 ## Solutions
-* [PJC](https://github.com/bibixx/pjatk-PJC)
+* [CMS](https://github.com/bibixx/pjatk-CMS)
 * [GUI](https://github.com/bibixx/pjatk-GUI)
-* [SOP](https://github.com/bibixx/pjatk-SOP)
-* [UTP](https://github.com/bibixx/pjatk-UTP)
-* [TPO](https://github.com/bibixx/pjatk-TPO)
 * [MAS](https://github.com/bibixx/pjatk-MAS)
+* [PJC](https://github.com/bibixx/pjatk-PJC)
 * [PUM](https://github.com/bibixx/pjatk-PUM)
+* [SOP](https://github.com/bibixx/pjatk-SOP)
 * [TIN](https://github.com/bibixx/pjatk-TIN)
+* [TPO](https://github.com/bibixx/pjatk-TPO)
+* [UTP](https://github.com/bibixx/pjatk-UTP)
 
 ## License
 All of the code in the above repositories is distributed under the [CC BY-NC](./LICENSE.md) unless specified otherwise inside the individual repositories.
