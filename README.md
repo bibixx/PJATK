@@ -13,6 +13,7 @@ The following repository compiles the list of all of the repositories that I hav
 * [GUI](https://github.com/bibixx/pjatk-GUI)
 * [MAS](https://github.com/bibixx/pjatk-MAS)
 * [PJC](https://github.com/bibixx/pjatk-PJC)
+* [PSM](https://github.com/bibixx/pjatk-PSM)
 * [PUM](https://github.com/bibixx/pjatk-PUM)
 * [SKJ](https://github.com/bibixx/pjatk-SKJ)
 * [SOP](https://github.com/bibixx/pjatk-SOP)
