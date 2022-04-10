@@ -8,6 +8,7 @@
 The following repository compiles the list of all of the repositories that I have created during my studies on [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
 
 ## Solutions
+* [ABD](https://github.com/bibixx/pjatk-ABD)
 * [ASI](https://github.com/bibixx/pjatk-ASI)
 * [CMS](https://github.com/bibixx/pjatk-CMS)
 * [GUI](https://github.com/bibixx/pjatk-GUI)
